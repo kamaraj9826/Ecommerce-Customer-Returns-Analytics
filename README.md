@@ -45,9 +45,7 @@ An e-commerce company is experiencing a high product return rate, resulting in r
 - Monthly Sales Trend
 - Sales by Product Category
 
-**Screenshot**
-
-*(Add Sales Dashboard Screenshot Here)*
+![Sales Dashboard](images/sales_dashboard.png)
 
 ---
 

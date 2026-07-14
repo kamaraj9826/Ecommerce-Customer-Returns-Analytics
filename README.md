@@ -45,7 +45,7 @@ An e-commerce company is experiencing a high product return rate, resulting in r
 - Monthly Sales Trend
 - Sales by Product Category
 
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](images/Sales_Dashboard.png)
 
 ---
 
@@ -59,10 +59,8 @@ An e-commerce company is experiencing a high product return rate, resulting in r
 - Return Rate by Location
 - Monthly Return Trend
 
-**Screenshot**
-
-*(Add Product Return Dashboard Screenshot Here)*
-
+![Product Return Analysis](images/Product_return_analysis_dashboard1.png)
+![Product Return Analysis](images/Product_return_analysis_dashboard2.png)
 ---
 
 ## 3️⃣ Customer Behavior Analysis
@@ -73,9 +71,7 @@ An e-commerce company is experiencing a high product return rate, resulting in r
 - Customer-wise Orders
 - Customer Purchase Insights
 
-**Screenshot**
-
-*(Add Customer Behavior Dashboard Screenshot Here)*
+![Product Return Analysis](images/Customer_behaviour_analysis_dashboard.png)
 
 ---
 
@@ -88,24 +84,7 @@ An e-commerce company is experiencing a high product return rate, resulting in r
 - Delivery Performance by Location
 - Delivery Performance by Product Category
 
-**Screenshot**
-
-*(Add Delivery Performance Dashboard Screenshot Here)*
-
----
-
-## 5️⃣ Business Recommendations
-
-**Recommendations**
-- Product Return Reduction Strategies
-- Customer Retention Strategies
-- Regional Improvement Strategies
-- Delivery Optimization
-- Expected Business Impact
-
-**Screenshot**
-
-*(Add Recommendations Dashboard Screenshot Here)*
+![Product Return Analysis](images/delivery_performance_analysis_dashboard.png)
 
 ---
 
